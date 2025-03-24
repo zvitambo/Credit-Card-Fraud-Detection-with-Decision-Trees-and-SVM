@@ -1,6 +1,6 @@
 # **Credit Card Fraud Detection with Decision Trees and SVM**
 
-using two popular classification models to identify fraudulent credit card transactions. These models are: Decision Tree and Support Vector Machine. You will use a real dataset of credit card transactions to train each of these models. You will then use the trained model to assess if a credit card transaction is fraudulent or not.
+Using two popular classification models to identify fraudulent credit card transactions. These models are: Decision Tree and Support Vector Machine. The project uses a real dataset of credit card transactions to train each of these models. Then project will then use the trained model to assess if a credit card transaction is fraudulent or not.
 
 * Perform basic data preprocessing in Python
 * Model a classification task using the Scikit-Learn Python APIs
